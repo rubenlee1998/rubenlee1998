@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-3776AB?style=flat-square&logo=CSS&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-3776AB?style=flat-square&logo=HTML&logoColor=white"/></a>
 
